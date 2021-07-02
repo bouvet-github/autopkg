@@ -27,7 +27,7 @@
                 <key>prod_name</key>
                 <string>%NAME%</string>
                 <key>pkg_path</key>
-                <string>/Users/macmini/Library/AutoPkg/Cache/com.bouvet.jss-upload.Firefox/downloads/</string>
+                <string>%pkg_path%</string>
             </dict>
             <key>Processor</key>
             <string>JSSImporter</string>
