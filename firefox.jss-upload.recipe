@@ -16,7 +16,7 @@
     <key>MinimumVersion</key>
     <string>2.3.1</string>
     <key>ParentRecipe</key>
-    <string>com.github.autopkg.pkg.Firefox_EN</string>
+    <string>com.github.autopkg.download.FirefoxSignedPkg</string>
     <key>Process</key>
     <array>
         <dict>
