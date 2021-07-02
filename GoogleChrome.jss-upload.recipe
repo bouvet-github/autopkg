@@ -14,7 +14,7 @@
         <string>Google Chrome</string>
     </dict>
     <key>MinimumVersion</key>
-    <string>91</string>
+    <string>2.3.1</string>
     <key>ParentRecipe</key>
     <string>com.github.autopkg.pkg.googlechrome</string>
     <key>Process</key>
